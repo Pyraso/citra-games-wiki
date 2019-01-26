@@ -1,0 +1,9 @@
+title = "Mario & Luigi Bowser's Inside Story + Bowser Jr's Journey"
+description = "Mario & Luigi Bowser's Inside Story + Bowser Jr's Journey is a Remake of Mario & Luigi Bowser's Inside Story Nintendo DS game, with an included gamemode called Bowser Jr's Journey and better graphics. It was released Jan 11, 2019 and published by Nintendo."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001D1500"
+region = "eur"
+release_date = "2019-01-11"
